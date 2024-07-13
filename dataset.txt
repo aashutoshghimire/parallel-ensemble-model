@@ -1,1 +1,2 @@
 Data set link: creditcard: https://www.kaggle.com/datasets/yashpaloswal/fraud-detection-credit-card
+Data set link: wine classification: https://archive.ics.uci.edu/dataset/186/wine+quality
